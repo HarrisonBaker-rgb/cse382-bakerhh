@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XAML.BasicControls">
+    <VerticalStackLayout>
+        <Label Text="CSE 382" HorizontalOptions="Center" FontSize="32"/>
+        <CheckBox IsChecked="False"/>
+        <Entry Text="Some text" TextColor="Red"/>
+        <Slider Minimum="0" Maximum="10.0" Value="5"/>
+        <Entry Text="" Placeholder="Name" FontSize="15"/>
+        <BoxView WidthRequest="30" HeightRequest="30" Color="red" CornerRadius="5"/>
+        <BoxView WidthRequest="30" HeightRequest="30" Color="IndianRed" CornerRadius="5"/>
+        <BoxView WidthRequest="30" HeightRequest="30" Color="DarkRed" CornerRadius="5"/>
+        <DatePicker Date="1/1/2000"/>
+        <TimePicker/>
+        <Stepper/>
+    </VerticalStackLayout>
+</ContentPage>

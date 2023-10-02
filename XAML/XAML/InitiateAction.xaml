@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XAML.InitiateAction">
+    <VerticalStackLayout>
+        <Label 
+            Text="Controls to start actions"
+            FontSize="32"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+        <Button Text="Push this"/>
+        <ImageButton Source="https://aka.ms/campus.jpg" WidthRequest="50" HeightRequest="50"/>
+        <Button BackgroundColor="yellow" Text="Button 1" TextColor="Red" CornerRadius="0" FontSize="55" HeightRequest="80"/>
+        <Button BackgroundColor="Blue" CornerRadius="25" Text="Button 2" TextColor = "Yellow" FontSize="55" HeightRequest="80"/>
+    </VerticalStackLayout>
+</ContentPage>

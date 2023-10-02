@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{274EE93F-C5EF-4609-A23A-C1EFCC0ABFFA}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LINQMauiApp/AutoPage.xaml.cs">
+    <Files>
+      <File FileName="LINQMauiApp/AutoPage.xaml" Line="1" Column="1" IsPinned="True" />
+      <File FileName="LINQMauiApp/StudentPage.xaml" />
+      <File FileName="LINQMauiApp/PersonPage.xaml" />
+      <File FileName="LINQMauiApp/PersonPage.xaml.cs" />
+      <File FileName="LINQMauiApp/StudentPage.xaml.cs" />
+      <File FileName="LINQMauiApp/AutoPage.xaml.cs" Line="57" Column="1" />
+      <File FileName="LINQMauiApp/MauiProgram.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LINQMauiApp" expanded="True">
+            <Node name="LINQMauiApp">
+              <Node name="AutoPage.xaml" expanded="True">
+                <Node name="AutoPage.xaml.cs" selected="True" />
+              </Node>
+              <Node name="PersonPage.xaml" expanded="True" />
+              <Node name="StudentPage.xaml" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.LINQMauiApp PreferredExecutionTarget="MyAppleMacCatalystID" />
+</Properties>

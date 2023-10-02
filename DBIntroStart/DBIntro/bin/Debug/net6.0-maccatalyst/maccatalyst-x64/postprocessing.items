@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="DBIntro.app/Contents/MacOS/DBIntro">
+      <BCSymbolMapName>DBIntro.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>DBIntro.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/harrisonbaker/Desktop/cse382_bakerhh/DBIntroStart/DBIntro/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/mtouch-symbols.list</SymbolFile>
+      <DSymName>DBIntro.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/harrisonbaker/Desktop/cse382_bakerhh/DBIntroStart/DBIntro</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>

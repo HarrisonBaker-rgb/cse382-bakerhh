@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{AE0C322B-C4CF-4977-AE23-F5D8D0B2D1CC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MarginsAndPadding/ControlsPage.xaml">
+    <Files>
+      <File FileName="MarginsAndPadding/StackPage.xaml" Line="1" Column="1" />
+      <File FileName="MarginsAndPadding/ControlsPage.xaml" Line="12" Column="48" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MarginsAndPadding" expanded="True">
+            <Node name="MarginsAndPadding">
+              <Node name="ControlsPage.xaml" expanded="True" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.3970A73F-B4F8-4AAF-8502-51C6EEF66365" />
+  <MonoDevelop.Ide.ItemProperties.MarginsAndPadding PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.3970A73F-B4F8-4AAF-8502-51C6EEF66365" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>

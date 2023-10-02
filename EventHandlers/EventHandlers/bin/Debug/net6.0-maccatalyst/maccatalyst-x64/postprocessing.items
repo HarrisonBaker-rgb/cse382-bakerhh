@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="EventHandlers.app/Contents/MacOS/EventHandlers">
+      <BCSymbolMapName>EventHandlers.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>EventHandlers.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/harrisonbaker/Desktop/cse382_bakerhh/EventHandlers/EventHandlers/obj/Debug/net6.0-maccatalyst/maccatalyst-x64/mtouch-symbols.list</SymbolFile>
+      <DSymName>EventHandlers.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/harrisonbaker/Desktop/cse382_bakerhh/EventHandlers/EventHandlers</SourceProjectPath>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>

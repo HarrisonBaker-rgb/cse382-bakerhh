@@ -1,0 +1,16 @@
+/Users/harrisonbaker/Desktop/cse382_bakerhh/CS/CS/bin/Debug/net6.0/words.txt
+/Users/harrisonbaker/Desktop/cse382_bakerhh/CS/CS/bin/Debug/net6.0/CS
+/Users/harrisonbaker/Desktop/cse382_bakerhh/CS/CS/bin/Debug/net6.0/CS.deps.json
+/Users/harrisonbaker/Desktop/cse382_bakerhh/CS/CS/bin/Debug/net6.0/CS.runtimeconfig.json
+/Users/harrisonbaker/Desktop/cse382_bakerhh/CS/CS/bin/Debug/net6.0/CS.dll
+/Users/harrisonbaker/Desktop/cse382_bakerhh/CS/CS/bin/Debug/net6.0/CS.pdb
+/Users/harrisonbaker/Desktop/cse382_bakerhh/CS/CS/obj/Debug/net6.0/CS.csproj.AssemblyReference.cache
+/Users/harrisonbaker/Desktop/cse382_bakerhh/CS/CS/obj/Debug/net6.0/CS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/harrisonbaker/Desktop/cse382_bakerhh/CS/CS/obj/Debug/net6.0/CS.AssemblyInfoInputs.cache
+/Users/harrisonbaker/Desktop/cse382_bakerhh/CS/CS/obj/Debug/net6.0/CS.AssemblyInfo.cs
+/Users/harrisonbaker/Desktop/cse382_bakerhh/CS/CS/obj/Debug/net6.0/CS.csproj.CoreCompileInputs.cache
+/Users/harrisonbaker/Desktop/cse382_bakerhh/CS/CS/obj/Debug/net6.0/CS.dll
+/Users/harrisonbaker/Desktop/cse382_bakerhh/CS/CS/obj/Debug/net6.0/refint/CS.dll
+/Users/harrisonbaker/Desktop/cse382_bakerhh/CS/CS/obj/Debug/net6.0/CS.pdb
+/Users/harrisonbaker/Desktop/cse382_bakerhh/CS/CS/obj/Debug/net6.0/CS.genruntimeconfig.cache
+/Users/harrisonbaker/Desktop/cse382_bakerhh/CS/CS/obj/Debug/net6.0/ref/CS.dll

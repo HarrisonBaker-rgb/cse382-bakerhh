@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GridXAML.NewPage1"
+             Title="GridXAML">
+    <VerticalStackLayout>
+        <Grid HeightRequest="600" RowSpacing="2" ColumnSpacing ="2">
+          <Grid.RowDefinitions>
+              <RowDefinition Height="*"/>
+              <RowDefinition Height="*"/>
+              <RowDefinition Height="*"/>
+              <RowDefinition Height="*"/>
+              <RowDefinition Height="*"/>
+          </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Label x:Name="theLabel" Text="" FontSize="50" Grid.Row="0" Grid.ColumnSpan="3"/>
+            <Button Text="7" Grid.Row="1" Grid.Column="0" BackgroundColor="SandyBrown" TextColor = "Green" FontSize="32" FontAttributes="Bold" Clicked="Button_Clicked"/>
+            <Button Text="8" Grid.Row="1" Grid.Column="1" BackgroundColor="SandyBrown" TextColor = "Green" FontSize="32" FontAttributes="Bold" Clicked="Button_Clicked"/>
+            <Button Text="9" Grid.Row="1" Grid.Column="2" BackgroundColor="SandyBrown" TextColor = "Green" FontSize="32" FontAttributes="Bold" Clicked="Button_Clicked"/>
+            <Button Text="4" Grid.Row="2" Grid.Column="0" BackgroundColor="SandyBrown" TextColor = "Green" FontSize="32" FontAttributes="Bold" Clicked="Button_Clicked"/>
+            <Button Text="5" Grid.Row="2" Grid.Column="1" BackgroundColor="SandyBrown" TextColor = "Green" FontSize="32" FontAttributes="Bold" Clicked="Button_Clicked"/>
+            <Button Text="6" Grid.Row="2" Grid.Column="2" BackgroundColor="SandyBrown" TextColor = "Green" FontSize="32" FontAttributes="Bold" Clicked="Button_Clicked"/>
+            <Button Text="1" Grid.Row="3" Grid.Column="2" BackgroundColor="SandyBrown" TextColor = "Green" FontSize="32" FontAttributes="Bold" Clicked="Button_Clicked"/>
+            <Button Text="2" Grid.Row="3" Grid.Column="1" BackgroundColor="SandyBrown" TextColor = "Green" FontSize="32" FontAttributes="Bold" Clicked="Button_Clicked"/>
+            <Button Text="3" Grid.Row="3" Grid.Column="0" BackgroundColor="SandyBrown" TextColor = "Green" FontSize="32" FontAttributes="Bold" Clicked="Button_Clicked"/>
+            <Button Text="0" Grid.ColumnSpan ="2" Grid.Row="4" Grid.Column="0" BackgroundColor="SandyBrown" TextColor = "Green" FontSize="32" FontAttributes="Bold" Clicked="Button_Clicked"/>
+            <Button Text="Clear" Grid.Row="4" Grid.Column="2" BackgroundColor="SandyBrown" TextColor = "Green" FontSize="24" FontAttributes="Bold" Clicked="Button_Clicked"/>
+
+        </Grid>
+    </VerticalStackLayout>
+</ContentPage>

@@ -1,0 +1,59 @@
+is_global = true
+build_property.TargetFramework = net6.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = LINQMauiApp
+build_property.ProjectDir = /Users/harrisonbaker/Desktop/cse382_bakerhh/LINQMauiApp/LINQMauiApp/
+
+[/Users/harrisonbaker/Desktop/cse382_bakerhh/LINQMauiApp/LINQMauiApp/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LINQMauiApp.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[/Users/harrisonbaker/Desktop/cse382_bakerhh/LINQMauiApp/LINQMauiApp/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LINQMauiApp.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[/Users/harrisonbaker/Desktop/cse382_bakerhh/LINQMauiApp/LINQMauiApp/AutoPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LINQMauiApp.AutoPage.xaml
+build_metadata.AdditionalFiles.TargetPath = AutoPage.xaml
+build_metadata.AdditionalFiles.RelativePath = AutoPage.xaml
+
+[/Users/harrisonbaker/Desktop/cse382_bakerhh/LINQMauiApp/LINQMauiApp/PersonPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LINQMauiApp.PersonPage.xaml
+build_metadata.AdditionalFiles.TargetPath = PersonPage.xaml
+build_metadata.AdditionalFiles.RelativePath = PersonPage.xaml
+
+[/Users/harrisonbaker/Desktop/cse382_bakerhh/LINQMauiApp/LINQMauiApp/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LINQMauiApp.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Colors.xaml
+
+[/Users/harrisonbaker/Desktop/cse382_bakerhh/LINQMauiApp/LINQMauiApp/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LINQMauiApp.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Styles.xaml
+
+[/Users/harrisonbaker/Desktop/cse382_bakerhh/LINQMauiApp/LINQMauiApp/SchoolPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LINQMauiApp.SchoolPage.xaml
+build_metadata.AdditionalFiles.TargetPath = SchoolPage.xaml
+build_metadata.AdditionalFiles.RelativePath = SchoolPage.xaml
+
+[/Users/harrisonbaker/Desktop/cse382_bakerhh/LINQMauiApp/LINQMauiApp/StudentPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = LINQMauiApp.StudentPage.xaml
+build_metadata.AdditionalFiles.TargetPath = StudentPage.xaml
+build_metadata.AdditionalFiles.RelativePath = StudentPage.xaml

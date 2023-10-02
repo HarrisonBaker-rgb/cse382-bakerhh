@@ -1,0 +1,65 @@
+is_global = true
+build_property.TargetFramework = net6.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MarginsAndPadding
+build_property.ProjectDir = /Users/harrisonbaker/Desktop/cse382_bakerhh/MarginsAndPadding/MarginsAndPadding/
+
+[/Users/harrisonbaker/Desktop/cse382_bakerhh/MarginsAndPadding/MarginsAndPadding/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MarginsAndPadding.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[/Users/harrisonbaker/Desktop/cse382_bakerhh/MarginsAndPadding/MarginsAndPadding/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MarginsAndPadding.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[/Users/harrisonbaker/Desktop/cse382_bakerhh/MarginsAndPadding/MarginsAndPadding/CellPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MarginsAndPadding.CellPage.xaml
+build_metadata.AdditionalFiles.TargetPath = CellPage.xaml
+build_metadata.AdditionalFiles.RelativePath = CellPage.xaml
+
+[/Users/harrisonbaker/Desktop/cse382_bakerhh/MarginsAndPadding/MarginsAndPadding/ClusterPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MarginsAndPadding.ClusterPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ClusterPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ClusterPage.xaml
+
+[/Users/harrisonbaker/Desktop/cse382_bakerhh/MarginsAndPadding/MarginsAndPadding/ControlsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MarginsAndPadding.ControlsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ControlsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ControlsPage.xaml
+
+[/Users/harrisonbaker/Desktop/cse382_bakerhh/MarginsAndPadding/MarginsAndPadding/GridPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MarginsAndPadding.GridPage.xaml
+build_metadata.AdditionalFiles.TargetPath = GridPage.xaml
+build_metadata.AdditionalFiles.RelativePath = GridPage.xaml
+
+[/Users/harrisonbaker/Desktop/cse382_bakerhh/MarginsAndPadding/MarginsAndPadding/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MarginsAndPadding.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Colors.xaml
+
+[/Users/harrisonbaker/Desktop/cse382_bakerhh/MarginsAndPadding/MarginsAndPadding/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MarginsAndPadding.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Styles.xaml
+
+[/Users/harrisonbaker/Desktop/cse382_bakerhh/MarginsAndPadding/MarginsAndPadding/StackPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MarginsAndPadding.StackPage.xaml
+build_metadata.AdditionalFiles.TargetPath = StackPage.xaml
+build_metadata.AdditionalFiles.RelativePath = StackPage.xaml

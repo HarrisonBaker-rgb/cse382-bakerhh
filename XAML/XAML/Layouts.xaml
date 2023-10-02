@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="XAML.Layouts">
+    <VerticalStackLayout>
+        <Frame BorderColor="Blue" CornerRadius="3">
+            <HorizontalStackLayout>
+                <Label Text="Adult?"/>
+                <CheckBox IsChecked="False"/>
+            </HorizontalStackLayout>
+        </Frame>
+        <Frame BorderColor="Blue" CornerRadius="3">
+            <HorizontalStackLayout>
+                <Label Text="Use cellular data?"/>
+                <Switch IsToggled="True"/>
+            </HorizontalStackLayout>
+        </Frame>
+        <HorizontalStackLayout>
+            <Button Text="A"/>
+            <Button Text="B"/>
+            <Button Text="C"/>
+        </HorizontalStackLayout>
+        <HorizontalStackLayout>
+            <Button Text="Alpha"/>
+            <Button Text="Beta"/>
+        </HorizontalStackLayout>
+        <HorizontalStackLayout>
+            <Button Text="Uno"/>
+            <VerticalStackLayout>
+                <Button Text="Dos"/>
+                <Button Text="Tres"/>
+            </VerticalStackLayout>
+            <Button Text="Cuatro"/>
+        </HorizontalStackLayout>
+
+    </VerticalStackLayout>
+
+</ContentPage>

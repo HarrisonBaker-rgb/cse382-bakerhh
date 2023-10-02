@@ -1,0 +1,59 @@
+is_global = true
+build_property.TargetFramework = net6.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ListViewXAML
+build_property.ProjectDir = /Users/harrisonbaker/Desktop/cse382_zmudam/ListViewXAML/ListViewXAML/
+
+[/Users/harrisonbaker/Desktop/cse382_zmudam/ListViewXAML/ListViewXAML/AddingStringsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ListViewXAML.AddingStringsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = AddingStringsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = AddingStringsPage.xaml
+
+[/Users/harrisonbaker/Desktop/cse382_zmudam/ListViewXAML/ListViewXAML/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ListViewXAML.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[/Users/harrisonbaker/Desktop/cse382_zmudam/ListViewXAML/ListViewXAML/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ListViewXAML.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[/Users/harrisonbaker/Desktop/cse382_zmudam/ListViewXAML/ListViewXAML/ObjectPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ListViewXAML.ObjectPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ObjectPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ObjectPage.xaml
+
+[/Users/harrisonbaker/Desktop/cse382_zmudam/ListViewXAML/ListViewXAML/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ListViewXAML.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Colors.xaml
+
+[/Users/harrisonbaker/Desktop/cse382_zmudam/ListViewXAML/ListViewXAML/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ListViewXAML.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources/Styles/Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources/Styles/Styles.xaml
+
+[/Users/harrisonbaker/Desktop/cse382_zmudam/ListViewXAML/ListViewXAML/SimpleStringsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ListViewXAML.SimpleStringsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = SimpleStringsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = SimpleStringsPage.xaml
+
+[/Users/harrisonbaker/Desktop/cse382_zmudam/ListViewXAML/ListViewXAML/TemplatePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = ListViewXAML.TemplatePage.xaml
+build_metadata.AdditionalFiles.TargetPath = TemplatePage.xaml
+build_metadata.AdditionalFiles.RelativePath = TemplatePage.xaml

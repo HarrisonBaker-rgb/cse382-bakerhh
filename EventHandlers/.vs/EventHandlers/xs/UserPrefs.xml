@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{5DF8591B-8C52-4E55-AF34-94C14E95EE70}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EventHandlers/MainPage.xaml">
+    <Files>
+      <File FileName="EventHandlers/MauiProgram.cs" Line="1" Column="1" />
+      <File FileName="EventHandlers/MainPage.xaml.cs" Line="58" Column="3" />
+      <File FileName="EventHandlers/MainPage.xaml" Line="40" Column="53" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EventHandlers">
+            <Node name="EventHandlers">
+              <Node name="MainPage.xaml" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.EventHandlers PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.59442A82-F371-40C5-B421-D3BC7FEF01E7" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.59442A82-F371-40C5-B421-D3BC7FEF01E7" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:ListViewXAML;assembly=ListViewXAML"
+             x:Class="ListViewXAML.TemplatePage">
+    <VerticalStackLayout>
+        <ListView x:Name="lv" HeightRequest="200"
+                  VerticalScrollBarVisibility="Always">
+            <ListView.ItemTemplate>
+                <DataTemplate x:DataType="local:School">
+                    <ViewCell>
+                        <Grid Margin="0,5,0,0">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="20" />
+                                <RowDefinition Height="20" />
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="Auto" />
+                                <ColumnDefinition Width="*" />
+                            </Grid.ColumnDefinitions>
+                            <BoxView Color="{Binding SchoolColor}" WidthRequest="15" HeightRequest="15"
+                                        Grid.Row="0" Grid.Column="0"/>
+                            <BoxView Color="{Binding School2ndColor}" WidthRequest="15" HeightRequest="15"
+                                        Grid.Row="1" Grid.Column="0"/>
+                            <Label Text="{Binding Name}" WidthRequest="200"
+                                           TextColor="{Binding SchoolColor}"
+                                            Grid.Row="0" Grid.Column="1" Grid.RowSpan="2"
+                                            VerticalOptions="CenterAndExpand"
+                                            HorizontalOptions="StartAndExpand"/>
+                        </Grid>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </VerticalStackLayout>
+</ContentPage>

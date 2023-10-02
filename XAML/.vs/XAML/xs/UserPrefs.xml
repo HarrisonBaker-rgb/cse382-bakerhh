@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{17DC1B68-AA93-4A4E-8CF4-AC01859F9099}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.FED78577-2732-4ED2-A934-7FA2E560D329" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.XAML PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.FED78577-2732-4ED2-A934-7FA2E560D329" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XAML/Layouts.xaml">
+    <Files>
+      <File FileName="XAML/MauiProgram.cs" />
+      <File FileName="XAML/InitiateAction.xaml.cs" />
+      <File FileName="XAML/BasicControls.xaml.cs" />
+      <File FileName="XAML/AppShell.xaml" />
+      <File FileName="XAML/App.xaml" />
+      <File FileName="XAML/AppShell.xaml.cs" />
+      <File FileName="XAML/Layouts.xaml.cs" />
+      <File FileName="XAML/BasicControls.xaml" />
+      <File FileName="XAML/InitiateAction.xaml" />
+      <File FileName="XAML/Layouts.xaml" Line="9" Column="46" />
+      <File FileName="XAML/Platforms/MacCatalyst/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="XAML" expanded="True">
+            <Node name="XAML" expanded="True">
+              <Node name="App.xaml" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{4081E519-60C2-45F2-AF62-743830F24BEB}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="GridXAML/NewPage1.xaml.cs">
+    <Files>
+      <File FileName="GridXAML/NewPage1.xaml" Line="19" Column="38" />
+      <File FileName="GridXAML/NewPage1.xaml.cs" Line="17" Column="19" />
+      <File FileName="GridXAML/AppShell.xaml" Line="10" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GridXAML">
+            <Node name="GridXAML">
+              <Node name="NewPage1.xaml" expanded="True">
+                <Node name="NewPage1.xaml.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.3970A73F-B4F8-4AAF-8502-51C6EEF66365" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.GridXAML PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.3970A73F-B4F8-4AAF-8502-51C6EEF66365" />
+  <MultiItemStartupConfigurations />
+</Properties>
